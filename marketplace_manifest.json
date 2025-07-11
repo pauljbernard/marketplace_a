@@ -9,7 +9,7 @@
     {
       "name": "Code Assistant",
       "description": "Helps with coding tasks, debugging, and code optimization",
-      "url": "https://example.com/code-assistant"
+      "url": "http://localhost:5174/"
     },
     {
       "name": "Data Analyzer",
