@@ -1,0 +1,30 @@
+{
+  "name": "Sample Agent Marketplace",
+  "agents": [
+    {
+      "name": "Text Summarizer",
+      "description": "An AI agent that summarizes long texts into concise summaries",
+      "url": "https://example.com/text-summarizer"
+    },
+    {
+      "name": "Code Assistant",
+      "description": "Helps with coding tasks, debugging, and code optimization",
+      "url": "https://example.com/code-assistant"
+    },
+    {
+      "name": "Data Analyzer",
+      "description": "Analyzes datasets and provides insights and visualizations",
+      "url": "https://example.com/data-analyzer"
+    },
+    {
+      "name": "Language Translator",
+      "description": "Translates text between multiple languages with high accuracy",
+      "url": "https://example.com/translator"
+    },
+    {
+      "name": "Virtual Assistant",
+      "description": "A general-purpose assistant that can help with various tasks",
+      "url": "https://example.com/virtual-assistant"
+    }
+  ]
+}
