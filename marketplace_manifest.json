@@ -3,28 +3,38 @@
   "agents": [
     {
       "name": "Text Summarizer",
+      "shortname" : "Summarizer",
       "description": "An AI agent that summarizes long texts into concise summaries",
-      "url": "https://example.com/text-summarizer"
+      "url": "https://example.com/text-summarizer",
+      "singleton" : "false"
     },
     {
       "name": "Code Assistant",
+      "shortname" : "Assistant",
       "description": "Helps with coding tasks, debugging, and code optimization",
-      "url": "http://localhost:5174/"
+      "url": "http://localhost:5174/",
+      "singleton" : "false"
     },
     {
       "name": "Data Analyzer",
+      "shortname" : "Analyzer",
       "description": "Analyzes datasets and provides insights and visualizations",
-      "url": "https://example.com/data-analyzer"
+      "url": "https://example.com/data-analyzer",
+      "singleton" : "false"
     },
     {
       "name": "Language Translator",
+      "shortname" : "Translator",
       "description": "Translates text between multiple languages with high accuracy",
-      "url": "https://example.com/translator"
+      "url": "https://example.com/translator",
+      "singleton" : "false"
     },
     {
-      "name": "Virtual Assistant",
+      "name": "Research Assistant",
+      "shortname" : "Researcher",
       "description": "A general-purpose assistant that can help with various tasks",
-      "url": "https://example.com/virtual-assistant"
+      "url": "https://example.com/virtual-assistant",
+      "singleton" : "false"
     }
   ]
 }
