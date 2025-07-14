@@ -1,0 +1,68 @@
+{
+  "name": "Agent Engineering Marketplace",
+  "agents": [
+    {
+      "name": "Agent Scaffolding Agent",
+      "shortname": "AgentScaffolder",
+      "description": "Agent Engineering / Generation — Builds starter agents from structured specifications, templates, or prompts. Produces manifest files, interfaces, and module skeletons.",
+      "url": "https://example.com/agents/agentscaffolder",
+      "singleton": "false"
+    },
+    {
+      "name": "Agent Composer Agent",
+      "shortname": "AgentComposer",
+      "description": "Agent Engineering / Composition — Orchestrates modular agent assemblies into higher-order bundles or product-grade configurations. Supports workflow graphs and capability dependency resolution.",
+      "url": "https://example.com/agents/agentcomposer",
+      "singleton": "false"
+    },
+    {
+      "name": "Agent Manifest Verifier Agent",
+      "shortname": "ManifestVerifier",
+      "description": "Agent Engineering / Validation — Validates agent manifest schema, interfaces, metadata completeness, and declared capabilities against platform standards.",
+      "url": "https://example.com/agents/manifestverifier",
+      "singleton": "false"
+    },
+    {
+      "name": "Ontology and Capability Modeler Agent",
+      "shortname": "OntologyModeler",
+      "description": "Agent Engineering / Semantics — Maintains the shared ontology and capability map across all tiers. Supports alignment of agent roles, vocabularies, and inter-agent protocols.",
+      "url": "https://example.com/agents/ontologymodeler",
+      "singleton": "false"
+    },
+    {
+      "name": "Test Harness Agent",
+      "shortname": "TestHarness",
+      "description": "Agent Engineering / QA — Generates automated tests, scenario runners, and runtime assertions to validate functional correctness and stability of agents.",
+      "url": "https://example.com/agents/testharness",
+      "singleton": "false"
+    },
+    {
+      "name": "Persona Simulation Agent",
+      "shortname": "PersonaSim",
+      "description": "Agent Engineering / Simulation — Emulates student, teacher, and admin personas to simulate agent interactions, runtime stress, and policy edge cases.",
+      "url": "https://example.com/agents/personasim",
+      "singleton": "false"
+    },
+    {
+      "name": "Lifecycle Manager Agent",
+      "shortname": "LifecycleManager",
+      "description": "Agent Engineering / DevOps — Manages agent versioning, publishing, rollout, and deprecation. Tracks semantic versions and backward compatibility.",
+      "url": "https://example.com/agents/lifecyclemanager",
+      "singleton": "false"
+    },
+    {
+      "name": "Agent Registry Bootstrapper Agent",
+      "shortname": "RegistryBootstrapper",
+      "description": "Agent Engineering / Deployment — Creates and configures new agent marketplaces, capability registries, and scoped domains for multi-tenant or isolated deployments.",
+      "url": "https://example.com/agents/registrybootstrapper",
+      "singleton": "false"
+    },
+    {
+      "name": "Agentic Evolution Agent",
+      "shortname": "AgentEvolver",
+      "description": "Agent Engineering / Continuous Improvement — Uses feedback loops and meta-analysis to auto-refactor agents, suggest upgrades, or generate new agent candidates.",
+      "url": "https://example.com/agents/agentevolver",
+      "singleton": "false"
+    }
+  ]
+}

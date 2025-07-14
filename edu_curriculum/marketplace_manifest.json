@@ -1,0 +1,152 @@
+{
+  "name": "Education Product Experience Marketplace",
+  "agents": [
+    {
+      "name": "Foundations ELA Core Agent",
+      "shortname": "FoundationsELA",
+      "description": "Core Instruction / ELA — A K–6 English Language Arts experience that integrates decoding, fluency, comprehension, and writing using tiered lesson modules and embedded assessments.",
+      "url": "https://example.com/agents/foundationsela",
+      "singleton": "false"
+    },
+    {
+      "name": "Expression Literature Core Agent",
+      "shortname": "ExpressionLit",
+      "description": "Core Instruction / ELA — A Grades 6–12 literature-focused curriculum agent emphasizing deep reading, argumentation, and composition across genres and cultures.",
+      "url": "https://example.com/agents/expressionlit",
+      "singleton": "false"
+    },
+    {
+      "name": "Conceptual Math Core Agent",
+      "shortname": "ConceptualMath",
+      "description": "Core Instruction / Math — A K–8 mathematics program agent that develops numeracy, operations, and problem-solving through conceptual modeling and application-based tasks.",
+      "url": "https://example.com/agents/conceptualmath",
+      "singleton": "false"
+    },
+    {
+      "name": "Analytic Math Core Agent",
+      "shortname": "AnalyticMath",
+      "description": "Core Instruction / Math — A secondary mathematics agent covering Algebra I, Geometry, and Algebra II with integrated performance tasks, real-world data modeling, and collaborative practice.",
+      "url": "https://example.com/agents/analyticmath",
+      "singleton": "false"
+    },
+    {
+      "name": "Inquiry Science Core Agent",
+      "shortname": "InquiryScience",
+      "description": "Core Instruction / Science — A Grades 3–8 curriculum agent that delivers NGSS-aligned, inquiry-based science units with simulations, investigations, and embedded literacy supports.",
+      "url": "https://example.com/agents/inquiryscience",
+      "singleton": "false"
+    },
+    {
+      "name": "Civic Compass Social Studies Agent",
+      "shortname": "CivicCompass",
+      "description": "Core Instruction / Social Studies — A Grades 6–12 humanities agent that supports civic reasoning, historical inquiry, and economic literacy through multimedia, primary sources, and debates.",
+      "url": "https://example.com/agents/civiccompass",
+      "singleton": "false"
+    },
+    {
+      "name": "Momentum Skills Practice Agent",
+      "shortname": "MomentumPractice",
+      "description": "Supplemental / Math & ELA — A Grades 2–8 adaptive practice agent that reinforces skills through auto-leveled assignments and growth tracking aligned to core instruction.",
+      "url": "https://example.com/agents/momentumpractice",
+      "singleton": "false"
+    },
+    {
+      "name": "Fluent Reader Agent",
+      "shortname": "FluentReader",
+      "description": "Supplemental / ELA — A Grades K–3 oral reading fluency agent that listens to students read aloud, offers immediate feedback, and tracks accuracy and pace over time.",
+      "url": "https://example.com/agents/fluentreader",
+      "singleton": "false"
+    },
+    {
+      "name": "Accelerate Literacy Intervention Agent",
+      "shortname": "AccelerateLit",
+      "description": "Intervention / ELA — A Grades 4–12 reading intervention agent combining adaptive instruction, small group tasks, and fluency loops for struggling readers.",
+      "url": "https://example.com/agents/acceleratelit",
+      "singleton": "false"
+    },
+    {
+      "name": "Bridge Math Intervention Agent",
+      "shortname": "BridgeMath",
+      "description": "Intervention / Math — A Grades 5–12 math intervention agent that rebuilds foundational understanding using number sense diagnostics, concept mapping, and scaffolded problem solving.",
+      "url": "https://example.com/agents/bridgemath",
+      "singleton": "false"
+    },
+    {
+      "name": "Crafted Writing Studio Agent",
+      "shortname": "WritingStudio",
+      "description": "Supplemental / ELA — A Grades 3–12 writing agent offering guided writing assignments, genre scaffolds, real-time feedback, and teacher-configurable rubrics.",
+      "url": "https://example.com/agents/writingstudio",
+      "singleton": "false"
+    },
+    {
+      "name": "Insightful Educator Learning Agent",
+      "shortname": "EducatorInsight",
+      "description": "Professional Learning / Cross-Subject — A self-paced and coach-supported PD agent for teachers focused on instructional practice, learning science, and implementation readiness.",
+      "url": "https://example.com/agents/educatorinsight",
+      "singleton": "false"
+    },
+    {
+      "name": "Vision Assessment Dashboard Agent",
+      "shortname": "VisionAssessments",
+      "description": "Assessment / All Subjects — An analytics agent that aggregates curriculum-embedded, external (e.g., MAP-style), and observational data into mastery-aligned dashboards and intervention triggers.",
+      "url": "https://example.com/agents/visionassessments",
+      "singleton": "false"
+    },
+    {
+      "name": "Early Foundations Skills Agent",
+      "shortname": "EarlyFoundations",
+      "description": "Supplemental / Early Literacy — A PreK–2 phonological awareness and phonics agent that delivers interactive decoding, rhyming, and sound recognition exercises.",
+      "url": "https://example.com/agents/earlyfoundations",
+      "singleton": "false"
+    },
+    {
+      "name": "Language Bridge Agent",
+      "shortname": "LanguageBridge",
+      "description": "Supplemental / Multilingual Learners — A K–12 dual-language agent providing scaffolds, visual aids, and contextual vocabulary for English learners across subjects.",
+      "url": "https://example.com/agents/languagebridge",
+      "singleton": "false"
+    },
+    {
+      "name": "Wellbeing Coach Agent",
+      "shortname": "WellbeingCoach",
+      "description": "Supplemental / SEL — A K–12 socio-emotional learning agent supporting self-regulation, mindfulness, peer empathy, and journaling routines.",
+      "url": "https://example.com/agents/wellbeingcoach",
+      "singleton": "false"
+    },
+    {
+      "name": "Inventive STEM Agent",
+      "shortname": "InventiveSTEM",
+      "description": "Supplemental / STEM — A Grades 4–10 agent offering interdisciplinary project-based learning in science, technology, engineering, and math.",
+      "url": "https://example.com/agents/inventivestem",
+      "singleton": "false"
+    },
+    {
+      "name": "Scientific Pathways Agent",
+      "shortname": "ScientificPathways",
+      "description": "Core Instruction / High School Science — A modular Grades 9–12 curriculum agent for Biology, Chemistry, and Physics with labs, simulations, and assessments.",
+      "url": "https://example.com/agents/scientificpathways",
+      "singleton": "false"
+    },
+    {
+      "name": "Career Explorer Agent",
+      "shortname": "CareerExplorer",
+      "description": "Supplemental / Career Readiness — A Grades 6–12 agent that explores CTE pathways, builds digital portfolios, and supports postsecondary planning.",
+      "url": "https://example.com/agents/careerexplorer",
+      "singleton": "false"
+    },
+    {
+      "name": "Intervention Monitor Agent",
+      "shortname": "InterventionMonitor",
+      "description": "Intervention / MTSS & RTI — Tracks student progress through Tier 1–3 interventions, flags at-risk learners, and integrates IEP data.",
+      "url": "https://example.com/agents/interventionmonitor",
+      "singleton": "false"
+    },
+    {
+      "name": "Guardian Connect Agent",
+      "shortname": "GuardianConnect",
+      "description": "Family Engagement / Cross-Subject — A communication agent that generates weekly learning summaries, alerts, and actionable reports for caregivers.",
+      "url": "https://example.com/agents/guardianconnect",
+      "singleton": "false"
+    }
+  ]
+}

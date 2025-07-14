@@ -1,0 +1,355 @@
+{
+  "name": "Education Agent Marketplace",
+  "agents": [
+    {
+      "name": "Curriculum Graph Agent",
+      "shortname": "CurriculumGraph",
+      "description": "Manages traversable standards-aligned skill ontologies (TEKS, CCSS, etc.)",
+      "url": "https://example.com/agents/curriculumgraph",
+      "singleton": "false"
+    },
+    {
+      "name": "Course Blueprint Agent",
+      "shortname": "CourseBlueprint",
+      "description": "Structures modular course formats like weekly, thematic, or spiral models.",
+      "url": "https://example.com/agents/courseblueprint",
+      "singleton": "false"
+    },
+    {
+      "name": "Core Subject Architect Agents",
+      "shortname": "CoreSubjects",
+      "description": "Creates full curriculum sequences across key subjects.",
+      "url": "https://example.com/agents/coresubjects",
+      "singleton": "false"
+    },
+    {
+      "name": "Curriculum Versioning Agent",
+      "shortname": "CurriculumVersioning",
+      "description": "Handles localized, customized versions of curriculum.",
+      "url": "https://example.com/agents/curriculumversioning",
+      "singleton": "false"
+    },
+    {
+      "name": "Content Generator Agent",
+      "shortname": "ContentGen",
+      "description": "Produces readable, level-appropriate content for each unit.",
+      "url": "https://example.com/agents/contentgen",
+      "singleton": "false"
+    },
+    {
+      "name": "Modality Strategy Agent",
+      "shortname": "ModalityStrategy",
+      "description": "Designs content suited for print, digital, hybrid, and accessible formats.",
+      "url": "https://example.com/agents/modalitystrategy",
+      "singleton": "false"
+    },
+    {
+      "name": "STEAM Enrichment Agent",
+      "shortname": "STEAM",
+      "description": "Creates cross-disciplinary enrichment and maker-style content.",
+      "url": "https://example.com/agents/steam",
+      "singleton": "false"
+    },
+    {
+      "name": "Learning Activity Generator Agent",
+      "shortname": "ActivityGen",
+      "description": "Creates instructional activities such as quizzes and simulations.",
+      "url": "https://example.com/agents/activitygen",
+      "singleton": "false"
+    },
+    {
+      "name": "Gamified Reinforcement Agent",
+      "shortname": "GameReinforce",
+      "description": "Applies gamification mechanics to reinforce learning.",
+      "url": "https://example.com/agents/gamereinforce",
+      "singleton": "false"
+    },
+    {
+      "name": "Assignment Composer Agent",
+      "shortname": "AssignmentGen",
+      "description": "Builds differentiated assignments for varying student needs.",
+      "url": "https://example.com/agents/assignmentgen",
+      "singleton": "false"
+    },
+    {
+      "name": "Rubric & Feedback Agent",
+      "shortname": "RubricFeedback",
+      "description": "Generates rubric-based feedback for submitted work.",
+      "url": "https://example.com/agents/rubricfeedback",
+      "singleton": "false"
+    },
+    {
+      "name": "Content Renderer Agent",
+      "shortname": "ContentRenderer",
+      "description": "Adapts instructional content for different output formats.",
+      "url": "https://example.com/agents/contentrenderer",
+      "singleton": "false"
+    },
+    {
+      "name": "Tiered Content Extension Agent",
+      "shortname": "TieredExtension",
+      "description": "Adds enrichment or remedial content extensions dynamically.",
+      "url": "https://example.com/agents/tieredextension",
+      "singleton": "false"
+    },
+    {
+      "name": "Diagnostic Agent",
+      "shortname": "Diagnostics",
+      "description": "Identifies conceptual gaps via assessment or observation.",
+      "url": "https://example.com/agents/diagnostics",
+      "singleton": "false"
+    },
+    {
+      "name": "Fluency & Recovery Coach Agent",
+      "shortname": "FluencyCoach",
+      "description": "Focuses on fluency-building and foundational practice.",
+      "url": "https://example.com/agents/fluencycoach",
+      "singleton": "false"
+    },
+    {
+      "name": "Tiered Response Planner Agent",
+      "shortname": "RTIPlanner",
+      "description": "Orchestrates multi-tiered intervention strategies.",
+      "url": "https://example.com/agents/rtiplanner",
+      "singleton": "false"
+    },
+    {
+      "name": "Differentiation Orchestrator Agent",
+      "shortname": "Differentiation",
+      "description": "Customizes instruction paths based on learning models.",
+      "url": "https://example.com/agents/differentiation",
+      "singleton": "false"
+    },
+    {
+      "name": "Persona-Based Flow Generator Agent",
+      "shortname": "PersonaFlow",
+      "description": "Tailors learning experiences to student archetypes.",
+      "url": "https://example.com/agents/personaflow",
+      "singleton": "false"
+    },
+    {
+      "name": "Assessment Authoring Agent",
+      "shortname": "AssessmentGen",
+      "description": "Produces aligned formative and summative assessments.",
+      "url": "https://example.com/agents/assessmentgen",
+      "singleton": "false"
+    },
+    {
+      "name": "Proficiency Banding Agent",
+      "shortname": "Banding",
+      "description": "Maps scores into custom proficiency tiers for each standard.",
+      "url": "https://example.com/agents/banding",
+      "singleton": "false"
+    },
+    {
+      "name": "Standards Mastery Insight Agent",
+      "shortname": "StandardsInsight",
+      "description": "Tracks progress toward mastery of standards.",
+      "url": "https://example.com/agents/standardsinsight",
+      "singleton": "false"
+    },
+    {
+      "name": "Assessment Sync Agent",
+      "shortname": "AssessmentSync",
+      "description": "Integrates external testing results like NWEA MAP.",
+      "url": "https://example.com/agents/assessmentsync",
+      "singleton": "false"
+    },
+    {
+      "name": "System-wide Learning Analytics Agent",
+      "shortname": "Analytics",
+      "description": "Aggregates usage and performance metrics system-wide.",
+      "url": "https://example.com/agents/analytics",
+      "singleton": "false"
+    },
+    {
+      "name": "Teacher Assistant Agent",
+      "shortname": "TeacherAssist",
+      "description": "Supports teachers with suggestions and pacing analysis.",
+      "url": "https://example.com/agents/teacherassist",
+      "singleton": "false"
+    },
+    {
+      "name": "Instructional Coaching Agent",
+      "shortname": "Coach",
+      "description": "Delivers observations and professional coaching feedback.",
+      "url": "https://example.com/agents/coach",
+      "singleton": "false"
+    },
+    {
+      "name": "PD Curriculum Agent",
+      "shortname": "PDPlanner",
+      "description": "Manages professional development paths and content.",
+      "url": "https://example.com/agents/pdplanner",
+      "singleton": "false"
+    },
+    {
+      "name": "Teacher Certification Tracker Agent",
+      "shortname": "CertTracker",
+      "description": "Monitors educator credentials and renewal timelines.",
+      "url": "https://example.com/agents/certtracker",
+      "singleton": "false"
+    },
+    {
+      "name": "Teacher Community Engagement Agent",
+      "shortname": "TeacherCommunity",
+      "description": "Enables mentoring, Q&A, and peer collaboration.",
+      "url": "https://example.com/agents/teachercommunity",
+      "singleton": "false"
+    },
+    {
+      "name": "Learner Profile Agent",
+      "shortname": "LearnerProfile",
+      "description": "Maintains evolving model of each learner's skill graph.",
+      "url": "https://example.com/agents/learnerprofile",
+      "singleton": "false"
+    },
+    {
+      "name": "Student Advisor Agent",
+      "shortname": "Advisor",
+      "description": "Recommends learning paths and highlights risk.",
+      "url": "https://example.com/agents/advisor",
+      "singleton": "false"
+    },
+    {
+      "name": "Behavior & Engagement Monitor Agent",
+      "shortname": "EngagementMonitor",
+      "description": "Analyzes engagement, mood, and behavior trends.",
+      "url": "https://example.com/agents/engagementmonitor",
+      "singleton": "false"
+    },
+    {
+      "name": "Group Dynamics Agent",
+      "shortname": "GroupManager",
+      "description": "Manages student groupings and task assignments.",
+      "url": "https://example.com/agents/groupmanager",
+      "singleton": "false"
+    },
+    {
+      "name": "Interaction Logger Agent",
+      "shortname": "Logger",
+      "description": "Tracks all student-system interactions.",
+      "url": "https://example.com/agents/logger",
+      "singleton": "false"
+    }
+{
+      "name": "Session Orchestrator Agent",
+      "shortname": "SessionOrch",
+      "description": "Manages lesson flow and transitions during sessions.",
+      "url": "https://example.com/agents/sessionorch",
+      "singleton": "false"
+    },
+    {
+      "name": "Live Engagement Agent",
+      "shortname": "LiveEngagement",
+      "description": "Runs live polls and quick checks during delivery.",
+      "url": "https://example.com/agents/liveengagement",
+      "singleton": "false"
+    },
+    {
+      "name": "Feedback Loop Agent",
+      "shortname": "FeedbackLoop",
+      "description": "Provides iterative, real-time feedback.",
+      "url": "https://example.com/agents/feedbackloop",
+      "singleton": "false"
+    },
+    {
+      "name": "Classroom Orchestration Agent",
+      "shortname": "ClassroomMgr",
+      "description": "Handles in-session classroom structure and transitions.",
+      "url": "https://example.com/agents/classroommgr",
+      "singleton": "false"
+    },
+    {
+      "name": "Capability Registry Agent",
+      "shortname": "Registry",
+      "description": "Publishes and routes capability descriptions.",
+      "url": "https://example.com/agents/registry",
+      "singleton": "false"
+    },
+    {
+      "name": "Plugin Harness Agent",
+      "shortname": "PluginHarness",
+      "description": "Loads and wraps external plugin functionality.",
+      "url": "https://example.com/agents/pluginharness",
+      "singleton": "false"
+    },
+    {
+      "name": "Ontology Broker Agent",
+      "shortname": "OntologyBroker",
+      "description": "Aligns vocabulary across domains and systems.",
+      "url": "https://example.com/agents/ontologybroker",
+      "singleton": "false"
+    },
+    {
+      "name": "Event Observer Agent",
+      "shortname": "Observer",
+      "description": "Watches system events for workflows or metrics.",
+      "url": "https://example.com/agents/observer",
+      "singleton": "false"
+    },
+    {
+      "name": "Access Control & Role Agent",
+      "shortname": "AccessControl",
+      "description": "Handles roles, permissions, and scopes.",
+      "url": "https://example.com/agents/accesscontrol",
+      "singleton": "false"
+    },
+    {
+      "name": "Audit & Explainability Agent",
+      "shortname": "Explainability",
+      "description": "Generates human-readable traces for all agent actions.",
+      "url": "https://example.com/agents/explainability",
+      "singleton": "false"
+    },
+    {
+      "name": "Agent Deployment Planner",
+      "shortname": "DeploymentPlanner",
+      "description": "Plans and recommends deployment configurations.",
+      "url": "https://example.com/agents/deploymentplanner",
+      "singleton": "false"
+    },
+    {
+      "name": "Curriculum Governance Agent",
+      "shortname": "Governance",
+      "description": "Controls approval, rollout, and archival processes.",
+      "url": "https://example.com/agents/governance",
+      "singleton": "false"
+    },
+    {
+      "name": "Resource Licensing & Rights Agent",
+      "shortname": "Licensing",
+      "description": "Manages access rights to programs or content sets.",
+      "url": "https://example.com/agents/licensing",
+      "singleton": "false"
+    },
+    {
+      "name": "Implementation Planner Agent",
+      "shortname": "Implementation",
+      "description": "Supports pilots and staged adoption of new tools.",
+      "url": "https://example.com/agents/implementation",
+      "singleton": "false"
+    },
+    {
+      "name": "External App Integration Agent",
+      "shortname": "AppBridge",
+      "description": "Connects to LTI and third-party platforms.",
+      "url": "https://example.com/agents/appbridge",
+      "singleton": "false"
+    },
+    {
+      "name": "Content Adapter Agent",
+      "shortname": "VendorAdapter",
+      "description": "Transforms vendor-provided content for compatibility.",
+      "url": "https://example.com/agents/vendoradapter",
+      "singleton": "false"
+    },
+    {
+      "name": "Program Equivalence Mapper Agent",
+      "shortname": "ProgramMapper",
+      "description": "Aligns comparable offerings across vendors.",
+      "url": "https://example.com/agents/programmapper",
+      "singleton": "false"
+    }
+  ]
+}
