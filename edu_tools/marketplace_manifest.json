@@ -231,7 +231,7 @@
       "description": "Tracks all student-system interactions.",
       "url": "https://example.com/agents/logger",
       "singleton": "false"
-    }
+    },
 {
       "name": "Session Orchestrator Agent",
       "shortname": "SessionOrch",
